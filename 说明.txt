@@ -1,0 +1,27 @@
+
+vue包下载问题解决
+删除package-lock.json后,重新npm install就好了
+
+启动log问题：
+修改成C:盘
+
+
+
+后端技术栈：
+
+- springboot
+- mybatis-plus
+- druid
+- mysql
+- spring-security
+- redis
+- jwt
+- 等等
+
+前端技术栈：
+
+- vue全家桶
+- elment-ui
+- echarts
+- axios
+- 等等

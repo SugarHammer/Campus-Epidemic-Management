@@ -1,0 +1,63 @@
+{
+  "groups": [
+    {
+      "name": "system.code",
+      "type": "com.fanchen.utils.CodeUtil",
+      "sourceType": "com.fanchen.utils.CodeUtil"
+    },
+    {
+      "name": "system.jwt",
+      "type": "com.fanchen.utils.JwtUtil",
+      "sourceType": "com.fanchen.utils.JwtUtil"
+    }
+  ],
+  "properties": [
+    {
+      "name": "system.code.service-code",
+      "type": "java.lang.String",
+      "sourceType": "com.fanchen.utils.CodeUtil"
+    },
+    {
+      "name": "system.code.service-role",
+      "type": "java.lang.Long",
+      "sourceType": "com.fanchen.utils.CodeUtil"
+    },
+    {
+      "name": "system.code.student-code",
+      "type": "java.lang.String",
+      "sourceType": "com.fanchen.utils.CodeUtil"
+    },
+    {
+      "name": "system.code.student-role",
+      "type": "java.lang.Long",
+      "sourceType": "com.fanchen.utils.CodeUtil"
+    },
+    {
+      "name": "system.code.teacher-code",
+      "type": "java.lang.String",
+      "sourceType": "com.fanchen.utils.CodeUtil"
+    },
+    {
+      "name": "system.code.teacher-role",
+      "type": "java.lang.Long",
+      "sourceType": "com.fanchen.utils.CodeUtil"
+    },
+    {
+      "name": "system.jwt.expire",
+      "type": "java.lang.Long",
+      "sourceType": "com.fanchen.utils.JwtUtil",
+      "defaultValue": 0
+    },
+    {
+      "name": "system.jwt.header",
+      "type": "java.lang.String",
+      "sourceType": "com.fanchen.utils.JwtUtil"
+    },
+    {
+      "name": "system.jwt.key",
+      "type": "java.lang.String",
+      "sourceType": "com.fanchen.utils.JwtUtil"
+    }
+  ],
+  "hints": []
+}
