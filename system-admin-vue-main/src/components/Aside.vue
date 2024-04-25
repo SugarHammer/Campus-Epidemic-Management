@@ -14,7 +14,7 @@
             <div v-if="this.$store.state.side.isCollapse">
                 <img style="width: 64px;height: 54px" :src="logo" />
             </div>
-            <h1 style="text-align: center;color:white;" v-show="!this.$store.state.side.isCollapse">校园疫情防控系统</h1>
+            <h1 style="text-align: center;color:white;" v-show="!this.$store.state.side.isCollapse">校园健康管理系统</h1>
             <el-menu-item index="index"
                           class="index"
                           @click="home()"

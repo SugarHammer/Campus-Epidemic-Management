@@ -12,7 +12,7 @@
                         class="login-form"
                         @keyup.enter.native="submitForm('loginForm')"
                 >
-                    <p style="margin-left: 4px; text-align: left;font-size: 28px;margin-bottom: 30px">校园疫情防控系统</p>
+                    <p style="margin-left: 4px; text-align: left;font-size: 28px;margin-bottom: 30px">校园健康管理系统</p>
 
                     <el-form-item prop="username">
                         <el-input
