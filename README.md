@@ -1,4 +1,4 @@
-# 校园健康管理系统(文末免费领取☟)
+# 校园健康管理系统(文末获取方式☟)
 
 #### 介绍
 校园疫情管理系统（springboot+vue）(有打卡)
@@ -49,8 +49,9 @@ springboot + ruoyi + thymeleaf + mysql
 - idea/eclipse、jdk-1.8、maven-3.8.6、mysql、node.js
 
 ## 有项目修改、安装调试需求 请联系以下
-![关注免费领](联系.png)
+![获取方式](QQ.png)
 
 ## 获取资源扫☝☝☝
+
 
 
