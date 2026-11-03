@@ -49,7 +49,7 @@ springboot + ruoyi + thymeleaf + mysql
 - idea/eclipse、jdk-1.8、maven-3.8.6、mysql、node.js
 
 ## 有项目修改、安装调试需求 请联系以下
-![获取方式](QQ.png)
+![获取方式](小程序.jpg)
 
 ## 获取资源扫☝☝☝
 
